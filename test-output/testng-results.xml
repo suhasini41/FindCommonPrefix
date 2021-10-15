@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-15T09:41:00 CDT" name="Default suite" finished-at="2021-10-15T09:41:00 CDT" duration-ms="62">
+    <groups>
+    </groups>
+    <test started-at="2021-10-15T09:41:00 CDT" name="Default test" finished-at="2021-10-15T09:41:00 CDT" duration-ms="62">
+      <class name="package1.CommonPrefix">
+        <test-method signature="testCase1()[pri:0, instance:package1.CommonPrefix@574b560f]" started-at="2021-10-15T09:41:00 CDT" name="testCase1" finished-at="2021-10-15T09:41:00 CDT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase2()[pri:0, instance:package1.CommonPrefix@574b560f]" started-at="2021-10-15T09:41:00 CDT" name="testCase2" finished-at="2021-10-15T09:41:00 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+      </class> <!-- package1.CommonPrefix -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
